@@ -6,15 +6,22 @@ Nesse curso você vai dominar tudo sobre **git** e **github** _do zero ao profis
 _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando com **Branches**._
 
 
-### Rede Social
+### Rede Social:
  
 [instagram](https://instragam.com/sujeitoprogramador)
 
 [Youtube](https://youtube.com/c/sujeitoprogramador)
 
-### listas não ordenadas:
+### Listas não ordenadas:
 
 * Comçando com GIT.
 * Aprendendo sobre Branches.
 * Git avançado.
 * Usando o github de forma profissional.
+
+### Listas ordenadas:
+
+1. Comçando com GIT.
+2. Aprendendo sobre Branches.
+3. Git avançado.
+4. Usando o github de forma profissional.
