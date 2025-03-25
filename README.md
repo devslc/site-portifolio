@@ -69,9 +69,16 @@ funcion showname(name){
         color: #FF0000;
 }
 
+
+
+
+```
+
 Propriedade | Descrição
------------ | ----------- 
+----------- | --------
 name | Para informar o nome do usuario
 size | Para definir o tamanho do campo
-bakcground | Cor de fundo da area em HEX
-onPress | Função chamada ao clicar no botão
+bakcground | Cor de fundo da área em HEX
+onPress | Função chamada ao clicar no 
+
+
