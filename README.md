@@ -1,4 +1,4 @@
-![Logo do Git](https://cdn-icons-png.freepik.com/256/6038/6038580.png?uid=R170457521&ga=GA1.1.836500733.1729261099&semt=ais_hybrid)
+![Logo do Git](https://cdn-icons-png.flaticon.com/128/9168/9168210.png)
 # Bem vindo ao curso Git e Github
 Nesse curso você vai dominar tudo sobre **git** e **github** _do zero ao profissional._ 
 
