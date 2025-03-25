@@ -29,6 +29,6 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 3. Git avançado.
 4. Usando o github de forma profissional.
 
->este é um blockquote, usando para destacar alguma area.
+>este é um blockquote, usado para destacar alguma area.
 >
 >segunda area destacada
