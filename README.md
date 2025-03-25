@@ -75,4 +75,3 @@ name | Para informar o nome do usuario
 size | Para definir o tamanho do campo
 bakcground | Cor de fundo da area em HEX
 onPress | Função chamada ao clicar no botão
-
