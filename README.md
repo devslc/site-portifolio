@@ -70,7 +70,7 @@ funcion showname(name){
 }
 
 
-|Propriedade | Descrição                       |  
-|------------|---------------------------------|
-| name       | Para informar o nome do usuario |
-| size       | Para definir o tamanh do campo  |
+| Propriedade   | Descrição     |  
+| ------------- | ------------- |
+| name          | Para informar |
+| size          | Para definir  |
