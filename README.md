@@ -14,14 +14,14 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 
 ### Listas não ordenadas:
 
-* Comçando com GIT.
+* Começando com GIT.
 * Aprendendo sobre Branches.
 * Git avançado.
 * Usando o github de forma profissional.
 
 ### Listas ordenadas:
 
-1. Comçando com GIT.
+1. Começando com GIT.
 2. Aprendendo sobre Branches.
 3. Git avançado.
 4. Usando o github de forma profissional.
