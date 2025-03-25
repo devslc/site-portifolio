@@ -28,3 +28,7 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 2. Aprendendo sobre Branches.
 3. Git avançado.
 4. Usando o github de forma profissional.
+
+>este é um blockquite, usando para destacar alguma area.
+>
+>segunda area destacada
