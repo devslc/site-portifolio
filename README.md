@@ -11,3 +11,10 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 [instagram](https://instragam.com/sujeitoprogramador)
 
 [Youtube](https://youtube.com/c/sujeitoprogramador)
+
+### listas não ordenadas:
+
+* Comçando com GIT.
+* Aprendendo sobre Branches.
+* Git avançado.
+* Usando o github de forma profissional.
